@@ -82,7 +82,12 @@
 #section4-title {
   color: white
 }
-
+#register-button{
+  font-family: 'Open Sans Bold', sans-serif;
+  font-size: 24 px;
+  color: #DDA722;
+  background-color: rgba(255, 255, 255, 0.0);
+}
 #section5-faq {
   background: linear-gradient(2deg, #DA4479,#E37E7A)
 }
